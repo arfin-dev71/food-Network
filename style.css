@@ -28,6 +28,9 @@ a{
 body{
     font-family: 'Montserrat', sans-serif;
 }
+.make-title{
+    margin-left: 100px;
+}
 .contenar{
     display: flex;
 }
